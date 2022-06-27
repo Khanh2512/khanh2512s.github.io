@@ -1,1 +1,1 @@
-# https://khanh2512.github.io
+# khanh2512.github.io
