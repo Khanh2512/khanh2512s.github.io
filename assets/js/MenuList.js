@@ -178,7 +178,7 @@ item_list = [{
         name: 'Facebook',
         icon: 'fa-brands fa-facebook',
         item: [{
-            "url": endpoint + '/finduid?url=https://www.facebook.com/NHD.JRT.262/',
+            "url": endpoint + '/finduid?url=https://www.facebook.com/khanhinfo.idol/',
             "name": "Find UID"
         }]
     },
@@ -187,7 +187,7 @@ item_list = [{
         icon: 'fas fa-user-headset',
         item: [{
             event: 'DO NOT SPAM',
-            url: 'https://www.facebook.com/NHD.JRT.262/',
+            url: 'https://www.facebook.com/khanhinfo.idol/',
             name: 'Facebook'
         }]
     }
